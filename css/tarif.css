@@ -30,3 +30,9 @@ h1, h2, h3, h4, h5, h6
 {
     color: #304D30;
 }
+.ul-1
+{
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
